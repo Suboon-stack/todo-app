@@ -13,11 +13,7 @@ A simple mobile app to manage your daily tasks, built with Flutter.
 
 ## Screenshots
 
-> Add your screenshots here.
 
-| Task list | Add / edit task |
-| --- | --- |
-| _coming soon_ | _coming soon_ |
 
 ## Project Structure
 
