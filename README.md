@@ -13,7 +13,9 @@ A simple mobile app to manage your daily tasks, built with Flutter.
 
 ## Screenshots
 
-
+| All tasks | Active tasks | Completed tasks |
+| --- | --- | --- |
+| ![All tasks](docs/screenshots/all-tasks.png) | ![Active tasks](docs/screenshots/active-tasks.png) | ![Completed tasks](docs/screenshots/completed-tasks.png) |
 
 ## Project Structure
 
